@@ -20,7 +20,7 @@
 ![hello](assets/images/hello.png)
 
 ### Template de banner para anunciar produtos
-![products](assets/images/hello.png)
+![products](assets/images/products.png)
 
 ### Pesquisando com auxílio da OpenAI
 ![searching](assets/images/searching.png)
