@@ -8,7 +8,7 @@
 ## Descrição do projeto
 
 <p align="justify">
-  Bot de discord com integração da API da OpenAi para efetuar pesquisas, saudar novos membros e ver a latência do servidor.
+  Bot de discord com integração da API da OpenAi para efetuar pesquisas, saudar novos membros, ver a latência do servidor, tocar, pausar e parar músicas.
 </p>
 
 ## Layout da Aplicação:
@@ -22,8 +22,11 @@
 ### Template de banner para anunciar produtos
 ![products](assets/images/hello.png)
 
-### Pesquisando com auxílio da OpenAI
+### Pesquisando com auxílio da API da OpenAI
 ![searching](assets/images/searching.png)
+
+### Tocando música:
+![searching](assets/images/playing_music.gif)
 
 
 ## Como rodar a aplicação:
@@ -57,5 +60,6 @@ python main.py
 - [Python](https://docs.python.org/3/)
 - [Discord.py](https://discordpy.readthedocs.io/en/stable/)
 - [OpenAi](https://platform.openai.com/docs/api-reference)
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 
 
